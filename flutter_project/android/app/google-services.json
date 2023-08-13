@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "621640731475",
+    "project_id": "indivisual-ujjwal",
+    "storage_bucket": "indivisual-ujjwal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621640731475:android:b487cf606010e0d3d3efa6",
+        "android_client_info": {
+          "package_name": "com.example.n_baz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621640731475-dbo55kl1e392h49244sg3ovcrshn39kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwpVYiKdNhegib0o7-cv_yw1mKGvlPti8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621640731475-dbo55kl1e392h49244sg3ovcrshn39kc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "621640731475-i5t4gdk5ab4a4s8tdqqqm85c79rd079b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nBaz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
